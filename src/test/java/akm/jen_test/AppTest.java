@@ -11,7 +11,7 @@ public class AppTest {
 	
 	@Test
 	public void test2() {
-		System.out.println("test 2 anil marturi1");
+		System.out.println("test 2 anil marturi");
 	}
 	
 	@Test
